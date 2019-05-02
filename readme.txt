@@ -19,20 +19,6 @@ Images:
     
 Licenses: CCO Public Domain
 
-https://pixabay.com/en/cat-kitten-pets-animals-housecat-2934720/
-https://pixabay.com/en/cat-domestic-cat-mackerel-pet-3523992/
-https://pixabay.com/en/cat-grey-fur-pet-feline-cute-1057829/
-https://pixabay.com/en/animal-cat-cute-domestic-eyes-17430/
-https://pixabay.com/en/adorable-dog-pet-animal-canine-1869685/
-https://pixabay.com/en/adorable-children-cute-dog-1866531/
-https://pixabay.com/en/sup-stand-up-paddling-ocean-paddle-1838969/
-https://pixabay.com/en/adorable-animal-basket-cat-cute-1845789/
-https://pixabay.com/en/cat-food-pet-food-cat-food-2170494/
-https://pixabay.com/en/shopping-shop-pet-food-dogs-frog-1900995/
-
-
-
-
 * Bootstrap v4.0.0 (http://getbootstrap.com)
     Copyright 2011-2018 Twitter, Inc.
     Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
