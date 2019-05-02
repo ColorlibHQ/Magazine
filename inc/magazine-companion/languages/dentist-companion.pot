@@ -1,0 +1,1054 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Magazine Companion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-15 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#. 1: Elementor
+#: inc/elementor-widgets/elementor-widget.php:209
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Elementor 2: Required Elementor version
+#. 1: PHP 2: Required PHP version
+#: inc/elementor-widgets/elementor-widget.php:229
+#: inc/elementor-widgets/elementor-widget.php:247
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:90
+msgid "90.377155"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/author-widget.php:27
+msgid "[ Magazine ] Author Widget"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/instagram-widget.php:24
+msgid "[ Magazine ] Instagram Widget"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/newsletter-widget.php:24
+msgid "[ Magazine ] Newsletter Form"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/sidebar-widgets/recent-post-thumb.php:24
+msgid "[ Magazine ] Recent Post"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:32
+msgid "About"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:50
+msgid "About Us"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:264
+msgid "About Video Overlay Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:228
+msgid "Accordion Active Title Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:198
+msgid "Accordion Active Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:104
+msgid "Accordion Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:238
+msgid "Accordion Title Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:208
+msgid "Accordion Title Color"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:116
+msgid "Action URL:"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:30
+msgid "Add author content"
+msgstr ""
+
+#: inc/sidebar-widgets/instagram-widget.php:27
+msgid "Add footer instagram widget."
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:27
+msgid "Add footer newsletter signup form."
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:27
+msgid "Add recent post with thumbnail"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:68
+msgid "Address"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:179
+msgid "Address Description Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:169
+msgid "Address Title Color"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:101
+msgid "Author Name"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:101
+#: inc/elementor-widgets/widgets/about.php:218
+#: inc/elementor-widgets/widgets/banner.php:287
+#: inc/elementor-widgets/widgets/call-to-action.php:298
+#: inc/elementor-widgets/widgets/countdown.php:151
+#: inc/elementor-widgets/widgets/counter.php:186
+#: inc/elementor-widgets/widgets/features.php:318
+#: inc/elementor-widgets/widgets/gallery.php:179
+#: inc/elementor-widgets/widgets/goals.php:323
+#: inc/elementor-widgets/widgets/services.php:208
+#: inc/elementor-widgets/widgets/team-member.php:184
+#: inc/elementor-widgets/widgets/testimonial.php:114
+msgid "Background"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:199
+#: inc/elementor-widgets/widgets/counter.php:117
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:209
+#: inc/elementor-widgets/widgets/call-to-action.php:289
+#: inc/elementor-widgets/widgets/countdown.php:142
+#: inc/elementor-widgets/widgets/counter.php:177
+#: inc/elementor-widgets/widgets/features.php:309
+#: inc/elementor-widgets/widgets/gallery.php:170
+#: inc/elementor-widgets/widgets/goals.php:314
+#: inc/elementor-widgets/widgets/services.php:199
+#: inc/elementor-widgets/widgets/testimonial.php:105
+msgid "Background Settings"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:33
+msgid "Banner"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:52
+msgid "Banner Section Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:72
+msgid ""
+"Before use map widget make sure you are set google map api key from "
+"customizer -> theme options -> general -> google map api key"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:175
+msgid "Behance Url:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:52
+msgid "Blgo"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:33
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:142
+msgid "Blog Text Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:122
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:132
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:219
+msgid "Border Color"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:25
+msgid "Builder Page Header Settings"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:88
+msgid "Button #1 Label"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:97
+msgid "Button #1 Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:106
+msgid "Button #2 Label"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:118
+msgid "Button #2 Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:208
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:188
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:218
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:198
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:178
+msgid "Button Hover Label Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:84
+msgid "Button Label"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:168
+msgid "Button Label Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:101
+msgid "Button Text"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:93
+#: inc/elementor-widgets/widgets/features.php:107
+msgid "Button Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:33
+msgid "Call To Action"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:51
+msgid "Call To Action Content"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:193
+msgid "Change Image"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:102
+#: inc/elementor-widgets/elementor-widget.php:118
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/clients.php:59
+msgid "Client"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/clients.php:78
+msgid "Client Logo"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/clients.php:72
+msgid "Client Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/clients.php:34
+#: inc/elementor-widgets/widgets/clients.php:54
+msgid "Clients"
+msgstr ""
+
+#. Author of the plugin
+msgid "Colorlib"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:95
+msgid "Column"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:65
+#: inc/elementor-widgets/widgets/contact.php:32
+#: inc/elementor-widgets/widgets/goals.php:91
+msgid "Contact"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:120
+msgid "Contact Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:141
+msgid "Contact Form"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:101
+#: inc/elementor-widgets/widgets/contact.php:113
+msgid "Contact Info"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:34
+#: inc/elementor-widgets/widgets/countdown.php:54
+msgid "Countdown"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:116
+msgid "Countdown Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:106
+msgid "Countdown Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:34
+#: inc/elementor-widgets/widgets/counter.php:54
+msgid "Counter"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:110
+msgid "Create Accordion"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:107
+msgid "Create Contact Info"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:59
+msgid "Create Counter"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:73
+#: inc/elementor-widgets/widgets/features.php:83
+msgid "Create Features"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:82
+msgid "Create Gallery"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/testimonial.php:58
+msgid "Create Review"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:80
+msgid "Create Team Member"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/services.php:83
+msgid "Create Training"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/testimonial.php:53
+msgid "Customers Review"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:71
+msgid "Date"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:17
+msgid "Demo Preview Imgae"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:76
+#: inc/elementor-widgets/widgets/call-to-action.php:78
+msgid "Description"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:150
+#: inc/elementor-widgets/widgets/banner.php:142
+#: inc/elementor-widgets/widgets/call-to-action.php:154
+#: inc/elementor-widgets/widgets/countdown.php:96
+#: inc/elementor-widgets/widgets/goals.php:218
+#: inc/elementor-widgets/widgets/services.php:175
+msgid "Description Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:86
+#: inc/elementor-widgets/widgets/features.php:96
+#: inc/elementor-widgets/widgets/goals.php:123
+#: inc/elementor-widgets/widgets/services.php:102
+#: inc/elementor-widgets/widgets/testimonial.php:76
+msgid "Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:250
+msgid "Descriptions Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/testimonial.php:71
+msgid "Desiganation"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:93
+msgid "Designation"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:224
+msgid "Designation Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:217
+msgid "Designation Style"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:116
+msgid "Dhaka, Bangladesh"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:69
+msgid "Don't look further, here is the key"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:121
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:170
+msgid "Dribbble Url:"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:211
+#: inc/elementor-widgets/elementor-widget.php:231
+msgid "Elementor"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:62
+msgid "Email address"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:117
+msgid "Enter here your MailChimp action URL."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:103
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:160
+msgid "Facebook Url:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:130
+msgid "Feature Title Color"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:56
+#: inc/elementor-widgets/widgets/goals.php:151
+msgid "Featured Image"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:33
+#: inc/elementor-widgets/widgets/features.php:78
+msgid "Features"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:52
+#: inc/elementor-widgets/widgets/gallery.php:51
+msgid "Features Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:91
+msgid "Fill Adoption Form"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:188
+msgid "Font Icon Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:198
+msgid "Font Icon Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:209
+msgid "Form Button Hover Label color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:199
+msgid "Form Button Label color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:147
+msgid "Form Shortcode"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:55
+msgid "From Customize"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:33
+#: inc/elementor-widgets/widgets/gallery.php:77
+msgid "Gallery"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:33
+msgid "Goals"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:50
+msgid "Goals Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:76
+msgid "Goals Us"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:43
+#: inc/elementor-widgets/widgets/about.php:180
+#: inc/elementor-widgets/widgets/banner.php:247
+#: inc/elementor-widgets/widgets/call-to-action.php:258
+#: inc/elementor-widgets/widgets/contact.php:60
+#: inc/elementor-widgets/widgets/counter.php:146
+#: inc/elementor-widgets/widgets/features.php:279
+#: inc/elementor-widgets/widgets/goals.php:295
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:209
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:229
+msgid "Hover Border Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:189
+msgid "Hover Label Color"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:117
+msgid "How to"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://colorlib.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://colorlib.com/wp/themes/magazine/"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:91
+#: inc/elementor-widgets/widgets/contact.php:126
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:140
+#: inc/elementor-widgets/widgets/contact.php:189
+#: inc/elementor-widgets/widgets/team-member.php:249
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:209
+#: inc/elementor-widgets/widgets/team-member.php:268
+msgid "Icon Font Size"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:258
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:242
+msgid "Icon Style"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:180
+#: inc/elementor-widgets/widgets/testimonial.php:81
+msgid "Image"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:112
+msgid "Img"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:62
+msgid "Import Demo Data"
+msgstr ""
+
+#: magazine-companion.php:72
+#, php-format
+msgid ""
+"In order to use the <strong>Magazine Companion</strong> plugin you have to "
+"also install the %1$sMagazine Theme%2$s"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:68
+#: inc/elementor-widgets/widgets/goals.php:94
+msgid ""
+"inappropriate behaviour is often laughed off as “boys will be boys,” women "
+"face higher conduct standards – especially in the workplace. That’s why it’s "
+"crucial that, as women."
+msgstr ""
+
+#: inc/sidebar-widgets/instagram-widget.php:83
+msgid "INSTAFEED"
+msgstr ""
+
+#: inc/sidebar-widgets/instagram-widget.php:103
+msgid "Item Number:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:179
+msgid "Label Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:78
+msgid "Latitude"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:87
+msgid "Longitude"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:78
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim. sed do "
+"eiusmod tempor incididunt."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:51
+msgid "Map Settings"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:175
+msgid "Member Image Hover Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:79
+#: inc/elementor-widgets/widgets/clients.php:65
+#: inc/elementor-widgets/widgets/features.php:89
+#: inc/elementor-widgets/widgets/gallery.php:88
+#: inc/elementor-widgets/widgets/goals.php:116
+#: inc/elementor-widgets/widgets/services.php:89
+#: inc/elementor-widgets/widgets/team-member.php:86
+#: inc/elementor-widgets/widgets/testimonial.php:64
+msgid "Name"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:200
+msgid "Name Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:193
+msgid "Name Style"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:89
+msgid "Newsletter"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:186
+msgid "No image selected"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:72
+msgid "Number"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:107
+msgid "Number Color"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:61
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:177
+#: inc/elementor-widgets/widgets/about.php:198
+#: inc/elementor-widgets/widgets/banner.php:244
+#: inc/elementor-widgets/widgets/banner.php:267
+#: inc/elementor-widgets/widgets/call-to-action.php:255
+#: inc/elementor-widgets/widgets/call-to-action.php:278
+#: inc/elementor-widgets/widgets/counter.php:143
+#: inc/elementor-widgets/widgets/counter.php:166
+#: inc/elementor-widgets/widgets/features.php:276
+#: inc/elementor-widgets/widgets/features.php:298
+#: inc/elementor-widgets/widgets/goals.php:292
+#: inc/elementor-widgets/widgets/goals.php:303
+msgid "Overlay"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:186
+#: inc/elementor-widgets/widgets/banner.php:255
+#: inc/elementor-widgets/widgets/call-to-action.php:266
+#: inc/elementor-widgets/widgets/counter.php:154
+#: inc/elementor-widgets/widgets/features.php:286
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/gallery.php:114
+#: inc/elementor-widgets/widgets/services.php:107
+#: inc/elementor-widgets/widgets/team-member.php:98
+msgid "Photo"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:249
+msgid "PHP"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:115
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:72
+msgid "Please select your favourite pet"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:230
+#: inc/elementor-widgets/elementor-widget.php:248
+msgid "Magazine"
+msgstr ""
+
+#. Name of the plugin
+msgid "Magazine Companion"
+msgstr ""
+
+#. Description of the plugin
+msgid "Magazine Companion is a companion for Magazine theme."
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:265
+msgid "Magazine Elements"
+msgstr ""
+
+#: inc/elementor-widgets/elementor-widget.php:210
+msgid "Magazine Theme"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:74
+msgid "Post Limit"
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:106
+msgid "Posts Number:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:71
+msgid "Rabindra Sorobor Dhanmondi Lake Rd"
+msgstr ""
+
+#: inc/sidebar-widgets/recent-post-thumb.php:90
+msgid "Recent Post"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:109
+msgid "Register now"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:191
+msgid "Remove"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/section-heading.php:32
+#: inc/elementor-widgets/widgets/section-heading.php:50
+msgid "Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:276
+msgid "Section Overlay"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:284
+msgid "Section Overlay Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:66
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:102
+#: inc/elementor-widgets/widgets/features.php:141
+#: inc/elementor-widgets/widgets/gallery.php:143
+#: inc/elementor-widgets/widgets/goals.php:177
+#: inc/elementor-widgets/widgets/section-heading.php:106
+#: inc/elementor-widgets/widgets/services.php:137
+#: inc/elementor-widgets/widgets/team-member.php:153
+msgid "Section Sub Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:58
+msgid "Section Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:91
+#: inc/elementor-widgets/widgets/features.php:131
+#: inc/elementor-widgets/widgets/gallery.php:132
+#: inc/elementor-widgets/widgets/goals.php:167
+#: inc/elementor-widgets/widgets/section-heading.php:83
+#: inc/elementor-widgets/widgets/services.php:126
+#: inc/elementor-widgets/widgets/team-member.php:142
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:193
+msgid "Select Image"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:36
+msgid "Select Page Header"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/services.php:33
+#: inc/elementor-widgets/widgets/services.php:78
+msgid "Services"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/services.php:52
+msgid "Services Section Heading"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:49
+msgid "Set Page Header Background"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:65
+msgid "Short Description"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:155
+msgid "Short Descriptions:"
+msgstr ""
+
+#: inc/magazine-meta/magazine-meta-config.php:42
+#: inc/elementor-widgets/widgets/about.php:179
+#: inc/elementor-widgets/widgets/banner.php:246
+#: inc/elementor-widgets/widgets/call-to-action.php:257
+#: inc/elementor-widgets/widgets/contact.php:59
+#: inc/elementor-widgets/widgets/counter.php:145
+#: inc/elementor-widgets/widgets/features.php:278
+#: inc/elementor-widgets/widgets/goals.php:294
+msgid "Show"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:57
+msgid "Show Map"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:57
+msgid "Style"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:60
+msgid "Style 1"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/call-to-action.php:61
+msgid "Style 2"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:170
+#: inc/elementor-widgets/widgets/banner.php:237
+#: inc/elementor-widgets/widgets/call-to-action.php:248
+#: inc/elementor-widgets/widgets/countdown.php:134
+#: inc/elementor-widgets/widgets/counter.php:136
+#: inc/elementor-widgets/widgets/features.php:269
+#: inc/elementor-widgets/widgets/gallery.php:162
+#: inc/elementor-widgets/widgets/goals.php:257
+#: inc/elementor-widgets/widgets/services.php:192
+#: inc/elementor-widgets/widgets/testimonial.php:97
+msgid "Style Background"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:162
+#: inc/elementor-widgets/widgets/call-to-action.php:173
+msgid "Style Button"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:114
+#: inc/elementor-widgets/widgets/call-to-action.php:138
+msgid "Style Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:104
+#: inc/elementor-widgets/widgets/blog.php:116
+#: inc/elementor-widgets/widgets/goals.php:191
+msgid "Style Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:162
+msgid "Style Content Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/countdown.php:80
+msgid "Style Countdown"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:91
+msgid "Style Counter"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:243
+msgid "Style Descriptions"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:162
+msgid "Style Feature Title "
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:155
+msgid "Style Features"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/features.php:181
+msgid "Style Font Icon"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/section-heading.php:77
+msgid "Style Section"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/blog.php:85
+#: inc/elementor-widgets/widgets/features.php:125
+#: inc/elementor-widgets/widgets/gallery.php:126
+#: inc/elementor-widgets/widgets/goals.php:161
+#: inc/elementor-widgets/widgets/services.php:120
+#: inc/elementor-widgets/widgets/team-member.php:136
+msgid "Style Section Heading"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/services.php:151
+msgid "Style Services Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:168
+msgid "Style Team Member Info"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:67
+#: inc/elementor-widgets/widgets/features.php:65
+#: inc/elementor-widgets/widgets/gallery.php:64
+#: inc/elementor-widgets/widgets/goals.php:63
+#: inc/elementor-widgets/widgets/section-heading.php:64
+#: inc/elementor-widgets/widgets/services.php:65
+#: inc/elementor-widgets/widgets/team-member.php:64
+msgid "Sub Title"
+msgstr ""
+
+#: inc/sidebar-widgets/newsletter-widget.php:70
+msgid "Subscribe"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:60
+msgid "Support Our Party"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:33
+#: inc/elementor-widgets/widgets/team-member.php:75
+msgid "Team Member"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:52
+msgid "Team Section Top"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/testimonial.php:33
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:56
+#: inc/elementor-widgets/widgets/call-to-action.php:69
+#: inc/elementor-widgets/widgets/counter.php:65
+#: inc/elementor-widgets/widgets/features.php:57
+#: inc/elementor-widgets/widgets/gallery.php:56
+#: inc/elementor-widgets/widgets/goals.php:55
+#: inc/elementor-widgets/widgets/goals.php:82
+#: inc/elementor-widgets/widgets/section-heading.php:56
+#: inc/elementor-widgets/widgets/services.php:57
+#: inc/elementor-widgets/widgets/team-member.php:57
+msgid "Title"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:58
+msgid "Title "
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:110
+msgid "Title #1 Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:126
+msgid "Title #2 Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:120
+#: inc/elementor-widgets/widgets/call-to-action.php:144
+#: inc/elementor-widgets/widgets/countdown.php:59
+#: inc/elementor-widgets/widgets/countdown.php:86
+#: inc/elementor-widgets/widgets/counter.php:97
+#: inc/elementor-widgets/widgets/features.php:169
+#: inc/elementor-widgets/widgets/services.php:157
+#: inc/elementor-widgets/widgets/services.php:166
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/services.php:96
+msgid "Title Url"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:150
+#: inc/sidebar-widgets/instagram-widget.php:98
+#: inc/sidebar-widgets/newsletter-widget.php:111
+#: inc/sidebar-widgets/recent-post-thumb.php:102
+msgid "Title:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/team-member.php:109
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/sidebar-widgets/author-widget.php:165
+msgid "Twitter Url:"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/counter.php:78
+msgid "Unit"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:136
+msgid "Video Content"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/banner.php:87
+#: inc/elementor-widgets/widgets/features.php:103
+msgid "View Details"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/about.php:59
+#: inc/elementor-widgets/widgets/goals.php:85
+msgid "We’ve made a life that will change you"
+msgstr ""
+
+#: inc/elementor-widgets/widgets/contact.php:122
+msgid "Write something..."
+msgstr ""
+
+#: inc/elementor-widgets/widgets/goals.php:142
+msgid "Youtube Video Url"
+msgstr ""

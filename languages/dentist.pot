@@ -1,0 +1,657 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-09 06:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: inc/magazine-functions.php:77
+msgid " Comments"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:148
+msgid ""
+" This wizard will set up your theme, install plugins and import demo content."
+" It is optional & should take less than a minute."
+msgstr ""
+
+#: inc/support-functions.php:80
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:21
+msgid "&laquo;"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:22
+msgid "&raquo;"
+msgstr ""
+
+#: inc/support-functions.php:80
+msgid "(Edit)"
+msgstr ""
+
+#: inc/magazine-functions.php:75
+msgid "0"
+msgstr ""
+
+#: inc/magazine-functions.php:79
+msgid "1"
+msgstr ""
+
+#: inc/customizer/fields/sections.php:81
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:285
+msgid "404 Page Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:241
+msgid "404 Text #1"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:263
+msgid "404 Text #1 Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:252
+msgid "404 Text #2"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:274
+msgid "404 Text #2 Color"
+msgstr ""
+
+#: inc/support-functions.php:79
+#, php-format
+msgid "<span class=\"comment-author-name\">%s</span> "
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:432
+msgid "Actions"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:296
+#: inc/libraries/class-epsilon-dashboard-setup.php:311
+#: inc/libraries/class-epsilon-dashboard-setup.php:326
+#: inc/libraries/class-epsilon-dashboard-setup.php:341
+msgid "Activate Plugin"
+msgstr ""
+
+#. %s is the plugin name
+#: inc/libraries/class-epsilon-init-notify-system.php:61
+#, php-format
+msgid "Activate: %s"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:223
+msgid "Activation, deactivation and uninstall"
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:204 inc/wp_bootstrap_navwalker.php:408
+msgid "Add a menu"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:188
+msgid "Allow & Finish"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:177
+msgid "Almost ready"
+msgstr ""
+
+#. Name of the theme
+msgid "magazine"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:164
+msgid ""
+"magazine integrates tightly with a few plugins that we recommend "
+"installing to get the full theme experience, as we've intended it to be. "
+"This is an optional step, but we recommend installing them as we think these "
+"hand-picked plugins work really nice with magazine and help enhance the "
+"overall experience."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"magazine is a modern event WordPress Theme. Its stylish design and "
+"beautiful"
+msgstr ""
+
+#: templates/404.php:35
+msgid "Back To Home page"
+msgstr ""
+
+#: templates/content-none.php:31
+msgid "Back to home page"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "Background"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:350
+msgid ""
+"Before import demo data make sure your install one click demo import plugin."
+msgstr ""
+
+#: templates/header-bottom.php:27 inc/customizer/fields/sections.php:69
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:183
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:226
+msgid "Blog Like Button Show/Hide"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:215
+msgid "Blog Social Share Show/Hide"
+msgstr ""
+
+#: inc/wp-html-helper.php:317
+msgid "Button"
+msgstr ""
+
+#: inc/wp-html-helper.php:106
+msgid "Click Here"
+msgstr ""
+
+#. Author of the theme
+msgid "Colorlib"
+msgstr ""
+
+#: inc/magazine-functions.php:83
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/hooks/hooks-functions.php:244
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:222
+msgid "CURRENT PLUGIN EVENTS"
+msgstr ""
+
+#: templates/404.php:28
+msgid "Either something went wrong or the page dosen't exist anymore."
+msgstr ""
+
+#: comments.php:54
+msgid "Enter your email"
+msgstr ""
+
+#: comments.php:53
+msgid "Enter your name"
+msgstr ""
+
+#: comments.php:55
+msgid "Enter Your Website"
+msgstr ""
+
+#: inc/breadcrumbs.php:110
+msgid "Error 404"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:420
+msgid ""
+"Even if you are a long-time WordPress user, we still believe you should give "
+"our documentation a very quick Read."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:184
+msgid "Finished"
+msgstr ""
+
+#: inc/customizer/fields/sections.php:92
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:416
+msgid "Footer Bottom Anchor Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:427
+msgid "Footer Bottom Anchor Hover Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:394
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:405
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:318
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/widgets-reg.php:31
+msgid "Footer One"
+msgstr ""
+
+#: inc/classes/Class-Config.php:128
+msgid "Footer Social Menu"
+msgstr ""
+
+#: inc/widgets-reg.php:51
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets-reg.php:41
+msgid "Footer Two"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:371
+msgid "Footer Widget Anchor Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:382
+msgid "Footer Widget Anchor Hover Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:338
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:328
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:301
+msgid "Footer widget show/hide"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:349
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:360
+msgid "Footer Widgets Title Color"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:421
+msgid "Full documentation"
+msgstr ""
+
+#: inc/customizer/fields/sections.php:47
+msgid "General"
+msgstr ""
+
+#. Notice URL
+#: inc/libraries/class-epsilon-dashboard-setup.php:100
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:151
+#: inc/libraries/class-epsilon-dashboard-setup.php:409
+msgid "Getting Started"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:426
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/classes/Class-Config.php:232
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:38
+msgid "Google map api key"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:122
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:56
+msgid "Header Nav Bar Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:78
+msgid "Header Nav Bar Menu Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:89
+msgid "Header Nav Bar Menu Hover Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:154
+msgid "Header Overlay Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:67
+msgid "Header Sticky Nav Bar Background Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:133
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/fields/sections.php:58
+msgid "Header Top"
+msgstr ""
+
+#: inc/breadcrumbs.php:28 inc/breadcrumbs.php:52
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://colorlib.com/wp/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://colorlib.com/wp/magazine/"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:296
+#: inc/libraries/class-epsilon-dashboard-setup.php:311
+#: inc/libraries/class-epsilon-dashboard-setup.php:326
+#: inc/libraries/class-epsilon-dashboard-setup.php:341
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:161
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#. %s is the plugin name.
+#: inc/libraries/class-epsilon-init-notify-system.php:55
+#, php-format
+msgid "Install: %s"
+msgstr ""
+
+#: templates/content-none.php:42
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:416
+msgid "Launch wizard"
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:155
+msgid ""
+"Let's get started <span class=\"dashicons dashicons-arrow-right-alt2\">"
+"</span>"
+msgstr ""
+
+#: comments.php:61
+msgid "Messege"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:209
+msgid "Name and email address"
+msgstr ""
+
+#: templates/pagination.php:20
+msgid "Newer Post"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:171
+msgid "Next <span class=\"dashicons dashicons-arrow-right-alt2\"></span>"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:372
+msgid "Next Post"
+msgstr ""
+
+#: templates/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/pagination.php:21
+msgid "Older Post"
+msgstr ""
+
+#: templates/404.php:23
+msgid "Ooops 404 Error !"
+msgstr ""
+
+#: inc/magazine-functions.php:133
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:46
+msgid "Page Header"
+msgstr ""
+
+#: inc/magazine-functions.php:129
+msgid "Pages:"
+msgstr ""
+
+#. %s is the plugin name
+#: inc/libraries/class-epsilon-init-notify-system.php:63
+#, php-format
+msgid "Please activate %s in order to create the demo content."
+msgstr ""
+
+#. %s is the plugin name.
+#: inc/libraries/class-epsilon-init-notify-system.php:57
+#, php-format
+msgid "Please install %s in order to create the demo content."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:167
+msgid "Plugins"
+msgstr ""
+
+#: comments.php:67
+msgid "Post Comment"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:171
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:385
+msgid "Prev Post"
+msgstr ""
+
+#: inc/classes/Class-Config.php:127
+msgid "Primary Menu"
+msgstr ""
+
+#: templates/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:439
+msgid "Recommended Plugins"
+msgstr ""
+
+#: comments.php:56
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: searchform.php:17
+msgid "Search Posts"
+msgstr ""
+
+#: templates/header-bottom.php:29
+msgid "Search Result"
+msgstr ""
+
+#: inc/breadcrumbs.php:108
+msgid "Search results for:"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:185
+msgid "Select the option to set blog page sidebar position."
+msgstr ""
+
+#: inc/customizer/fields/fields.php:39
+#, php-format
+msgid "Set google map api key. To get api key %s click here %s."
+msgstr ""
+
+#: inc/customizer/fields/fields.php:172
+msgid "Set post excerpt length."
+msgstr ""
+
+#: inc/widgets-reg.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:216
+msgid "Site URL, WP Version, PHP Version, plugins and themes"
+msgstr ""
+
+#: templates/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:414
+msgid "Step 1 - Implement recommended actions"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:419
+msgid "Step 2 - Check our documentation"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:424
+msgid "Step 3 - Customize everything"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:100
+msgid "Sticky Header Nav Bar Menu Color"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:111
+msgid "Sticky Header Nav Bar Menu Hover Color"
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder Page"
+msgstr ""
+
+#: templates/footer-bottom.php:4 inc/customizer/fields/fields.php:312
+#, php-format
+msgid "Theme by %s colorlib %s Copyright &copy; %s  |  All rights reserved."
+msgstr ""
+
+#: inc/customizer/fields/fields.php:25
+msgid "Theme Main Color."
+msgstr ""
+
+#: inc/customizer/fields/sections.php:29
+msgid "Theme Options"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:349
+msgid "To import demo data go to Appearance > Import Demo Data"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:144
+msgid "Toggle header overlay"
+msgstr ""
+
+#: inc/customizer/fields/fields.php:302
+msgid "Toggle to display footer widgets."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:425
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:415
+msgid ""
+"We compiled a list of steps for you, to take make sure the experience you "
+"will have using one of our products is very easy to follow."
+msgstr ""
+
+#. 1 is Theme Name, 2 is opening Anchor, 3 is closing.
+#: inc/class-epsilon-init-dashboard.php:143
+#, php-format
+msgid ""
+"We've been working hard on making %1$s the best one out there. We're "
+"interested in hearing your thoughts about %1$s and what we could do to make "
+"it even better. %2$sSend your feedback our way%3$s."
+msgstr ""
+
+#. Notice Title
+#: inc/libraries/class-epsilon-dashboard-setup.php:89
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:145
+msgid "Welcome to magazine"
+msgstr ""
+
+#. Notice
+#: inc/libraries/class-epsilon-dashboard-setup.php:93
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %3$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:202
+msgid "What permissions are being granted"
+msgstr ""
+
+#: inc/wp-html-helper.php:171 inc/wp-html-helper.php:220
+#: inc/wp-html-helper.php:267
+msgid "Write Something"
+msgstr ""
+
+#: inc/support-functions.php:82
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:180
+#, php-format
+msgid ""
+"Your new theme has been all set up. Enjoy your new theme by <a href=\"%s\">"
+"Colorlib</a>."
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:208
+msgid "YOUR PROFILE OVERVIEW"
+msgstr ""
+
+#: inc/libraries/class-epsilon-dashboard-setup.php:215
+msgid "YOUR SITE OVERVIEW"
+msgstr ""
